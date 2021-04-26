@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there! 👋
+
+My name is Paulo Rocha from Brazil (🇧🇷). I've been working as Fullstack Developer since 2018.
+
+In my free time I like to play and watch Soccer (⚽️), to watch Movies (🎞️) and Series (📺), to listen to music (🎵), to play Guitar (🎸) and Video Games (🎮).
+
+Would you like to find me?
 
 <!--
 **paulorochadev/paulorochadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
