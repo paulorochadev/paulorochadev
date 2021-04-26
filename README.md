@@ -8,11 +8,11 @@ Would you like to find me?
 
 [![Linkedin Badge](https://img.shields.io/badge/-Paulo%20Rocha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-rocha-b8556980)](https://www.linkedin.com/in/paulo-rocha-b8556980)
 
-[![Microsoft Outlook Badge](https://img.shields.io/badge/-pauloroberto_consultor@hotmail.com-blue?style=flat-square&logo=microsoftoutlook&logoColor=white&link=mailto:pauloroberto_consultor@hotmail.com)](mailto:pauloroberto_consultor@hotmail.com)
-
-![Badge](https://img.shields.io/badge/Outlook-pauloroberto_consultor@htomail.com-%237159c1?style=for-the-badge&logo=outlook)
+[![Microsoft Outlook Badge](https://img.shields.io/badge/-pauloroberto_consultor@hotmail.com-blue?style=flat-square&logo=outlook&logoColor=white&link=mailto:pauloroberto_consultor@hotmail.com)](mailto:pauloroberto_consultor@hotmail.com)
 
 ![Badge](https://img.shields.io/badge/Outlook-pauloroberto_consultor@htomail.com-%230078D4?style=for-the-badge&logo=Outlook)
+
+https://img.shields.io/badge/Outlook-pauloroberto__consultor%40hotmail.com-blue
 
 ____
 <!--
