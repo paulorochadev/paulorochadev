@@ -6,6 +6,13 @@ In my free time I like to play and watch Soccer (⚽️), to watch Movies (🎞�
 
 Would you like to find me?
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-rocha-b8556980)](https://www.linkedin.com/in/paulo-rocha-b8556980)
+
+____
+
+[![Paulo's github stats](https://github-readme-stats.vercel.app/api?username=paulo-rocha-b8556980&theme=dark&show_icons=true&count_private=true)](https://github.com/paulo-rocha-b8556980)
+
+
 <!--
 **paulorochadev/paulorochadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,4 +27,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
