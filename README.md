@@ -8,7 +8,7 @@ Would you like to find me?
 
 [![Linkedin Badge](https://img.shields.io/badge/-Paulo%20Rocha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-rocha-b8556980)](https://www.linkedin.com/in/paulo-rocha-b8556980)
 
-[![Hotmail Badge](https://img.shields.io/badge/-pauloroberto_consultor@hotmail.com-blue?style=flat-square&logo=Hotmail&logoColor=white&link=mailto:pauloroberto_consultor@hotmail.com)](mailto:pauloroberto_consultor@hotmail.com)
+[![Email Badge](https://img.shields.io/badge/-pauloroberto_consultor@hotmail.com-blue?style=flat-square&logo=email&logoColor=white&link=mailto:pauloroberto_consultor@hotmail.com)](mailto:pauloroberto_consultor@hotmail.com)
 ____
 <!--
 [![Paulo's github stats](https://github-readme-stats.vercel.app/api?username=paulo-rocha-b8556980&theme=dark&show_icons=true&count_private=true)](https://github.com/paulo-rocha-b8556980)
