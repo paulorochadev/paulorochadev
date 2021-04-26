@@ -12,7 +12,7 @@ Would you like to find me?
 
 ![Badge](https://img.shields.io/badge/Outlook-pauloroberto_consultor@htomail.com-%230078D4?style=for-the-badge&logo=Outlook)
 
-https://img.shields.io/badge/Outlook-pauloroberto__consultor%40hotmail.com-blue
+![Badge](https://img.shields.io/badge/Outlook-pauloroberto_consultor@htomail.com-blue?style=for-the-badge&logo=Outlook)
 
 ____
 <!--
