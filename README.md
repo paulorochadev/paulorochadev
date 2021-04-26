@@ -11,6 +11,9 @@ Would you like to find me?
 [![Microsoft Outlook Badge](https://img.shields.io/badge/-pauloroberto_consultor@hotmail.com-blue?style=flat-square&logo=microsoftoutlook&logoColor=white&link=mailto:pauloroberto_consultor@hotmail.com)](mailto:pauloroberto_consultor@hotmail.com)
 
 ![Badge](https://img.shields.io/badge/Outlook-pauloroberto_consultor@htomail.com-%237159c1?style=for-the-badge&logo=outlook)
+
+[![Outlook Badge](https://img.shields.io/badge/Outlook-pauloroberto_consultor@htomail.com-%0078D4)](mailto:pauloroberto_consultor@hotmail.com)
+
 ____
 <!--
 [![Paulo's github stats](https://github-readme-stats.vercel.app/api?username=paulo-rocha-b8556980&theme=dark&show_icons=true&count_private=true)](https://github.com/paulo-rocha-b8556980)
